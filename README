@@ -1,0 +1,4 @@
+Hey all,
+Don't know what to write, but we can write all future changes we do in this readme.
+
+3rd March, 2012 - Added Voice capture and Uploading in participate.php . The uploaded file will be uploaded in the directory /voice/sample.wav . We can do it in individual folder names of registered users as well, but database needs to be built first. Anyone up for making the database, please use self explanatory variable names. CIAO gaurav.
